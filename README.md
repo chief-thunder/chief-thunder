@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chief-thunder
-- 👀 I’m interested in coding, photography and hiking.
+- 👀 I’m interested in coding various different but useful things.
 - 🌱 I’m currently learning python and swift.
 - 💞️ Feel free to contribute to my public repos.
 - 📫 How to reach me ...
